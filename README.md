@@ -92,15 +92,7 @@ Because apparently a normal portfolio wasn't sufficiently difficult.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kool-puneet&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kool-puneet&layout=compact&theme=transparent&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kool-puneet&theme=transparent&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kool-puneet&theme=github_dark" />
 
 </div>
 
