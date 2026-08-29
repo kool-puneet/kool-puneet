@@ -18,12 +18,24 @@ IoT             → Sensors, embedded systems, connected devices
 Hardware        → Prototyping, electronics, physical products
 Software        → Web, automation, developer tools
 Security        → Anti-cheat systems & experimentation
+Design          → UI/UX, visual design & making things look damn good
 Open Source     → Building, breaking, learning, contributing
-```
+---
 
-I like taking an idea from:
 
-**💡 “What if we built this?” → 🔧 prototype → 🤖 intelligent system → 🚀 working product**
+But I'd actually go **one step further** and make your design obsession part of your identity:
+
+```markdown
+## 🎨 Design is not an afterthought
+
+I have an unreasonable obsession with making things **look as good as they work**.
+
+From UI/UX and visual systems to presentations, branding and interactive experiences, I care about the details that make something feel **intentional, polished and damn cool**.
+
+I use design as part of the engineering process, not as decoration added at the end.
+
+**Functionality matters.  
+But if it can be functional *and* beautiful, why settle for ugly?**
 
 ---
 
